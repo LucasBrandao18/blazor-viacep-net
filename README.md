@@ -216,8 +216,3 @@ na aplicação sempre vêm da API; os dados fixos de exemplo ficam somente nos t
 - **Tela desatualizada:** após compilar sem watcher, recarregue a página.
 - **Sem resultado em campo opcional:** alguns CEPs não têm complemento,
   logradouro ou bairro; a interface exibe “Não informado”.
-
-## Referências
-
-- Material fornecido: `blazor viacep.pdf`, páginas 16 a 45.
-- [Documentação oficial do ViaCEP](https://viacep.com.br/).
